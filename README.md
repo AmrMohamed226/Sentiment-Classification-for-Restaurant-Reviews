@@ -9,5 +9,5 @@ Moreover, to evaluate the best performing model on the testing set, we used a co
 Finally, we investigated the features (words) highest contributing to the model preddictive power for model interpretability (presented in the figure below).
 
 <p align="center">
-  <img src="LSVC_FeatImp_plot.png" />
+  <img src="LSVC_FeatImp_plot.png" height = "400"/>
 </p>
